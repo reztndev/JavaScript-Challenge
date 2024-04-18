@@ -19,6 +19,6 @@ THEN my employee data is displayed on the page sorted alphabetically by last nam
 ```
 # Deliverables submitted for this assignment:
 
-* [The repo on Github:](https://github.com/reztndev/Advanced-CSS-Portfolio)
+* [The repo on Github:](https://github.com/reztndev/JavaScript-Challenge)
 
-* [Link to the deployed application:](https://reztndev.github.io/Advanced-CSS-Portfolio/)
+* [Link to the deployed application:](https://reztndev.github.io/JavaScript-Challenge/)
